@@ -140,6 +140,5 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Your Name - your_email@example.com
+Your Name - abhinavkumarsaksena@gmail.com
 
-Project Link: https://github.com/your-username/your-project
